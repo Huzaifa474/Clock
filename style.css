@@ -1,0 +1,74 @@
+body
+{
+    background-color: black;
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+}
+.bi-clock
+{
+    color:blueviolet;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 35px;
+    margin-left: 9px;
+}
+.heading
+{
+    color:white;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin-top: 35px;
+}
+.mins
+{
+    color: white;
+    background-color:blueviolet;
+    width: 150px;
+    text-align: center;
+    border-radius: 30px;
+    margin-top: 100px;
+}
+.dec
+{
+    color: white;
+    width:30px;
+    text-align: center;
+    border-radius: 30px;
+    margin-top: 100px;
+}
+.secs
+{
+    color: white;
+    background-color:blueviolet;
+    width: 150px;
+    text-align: center;
+    border-radius: 30px;
+    margin-top: 100px;
+}
+
+#para
+{
+    color:white;
+}
+.ecs
+{
+    color: white;
+    margin-top: 100px;
+    margin-left:10px;
+}
+.day
+{
+    display: flex;
+    color: white;
+}
+.one
+{
+    margin-top: 15px;
+    margin-left: 5px;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
